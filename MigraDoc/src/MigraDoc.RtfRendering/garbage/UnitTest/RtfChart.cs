@@ -3,6 +3,8 @@ using System.IO;
 using Efw.UnitTest;
 using MigraDoc.DocumentObjectModel;
 using MigraDoc.DocumentObjectModel.IO;
+using MigraDoc.DocumentObjectModel.Shapes.Charts;
+using MigraDoc.Rendering;
 
 namespace MigraDoc.RtfRendering.UnitTest
 {
